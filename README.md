@@ -7,7 +7,8 @@
 
 `cd /app`
 
-related to this SO : https://stackoverflow.com/a/77685096/8325761
+related to this SO : https://stackoverflow.com/a/77685096/8325761      
+
 `podman system service --time=0 unix:///tmp/podman.sock &`
 
 `./gradlew -i test`
